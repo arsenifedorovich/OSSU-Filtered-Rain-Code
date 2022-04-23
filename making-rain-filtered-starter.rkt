@@ -3,30 +3,6 @@
 
 ;; making-rain-filtered-starter.rkt
 
-; 
-; PROBLEM:
-; 
-; Design a simple interactive animation of rain falling down a screen. Wherever we click,
-; a rain drop should be created and as time goes by it should fall. Over time the drops
-; will reach the bottom of the screen and "fall off". You should filter these excess
-; drops out of the world state - otherwise your program is continuing to tick and
-; and draw them long after they are invisible.
-; 
-; In your design pay particular attention to the helper rules. In our solution we use
-; these rules to split out helpers:
-;   - function composition
-;   - reference
-;   - knowledge domain shift
-;   
-;   
-; NOTE: This is a fairly long problem.  While you should be getting more comfortable with 
-; world problems there is still a fair amount of work to do here. Our solution has 9
-; functions including main. If you find it is taking you too long then jump ahead to the
-; next homework problem and finish this later.
-; 
-; 
-
-
 ;; Make it rain where we want it to.
 
 ;; =================
