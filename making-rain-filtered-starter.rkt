@@ -13,7 +13,7 @@
 
 (define SPEED 1)
 
-(define DROP .)
+(define DROP <img>)
 
 (define MTS (rectangle WIDTH HEIGHT "solid" "light blue"))
 
