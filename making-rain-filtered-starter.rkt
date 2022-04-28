@@ -13,7 +13,7 @@
 
 (define SPEED 1)
 
-(define DROP (ellipse 4 8 "solid" "blue"))
+(define DROP .)
 
 (define MTS (rectangle WIDTH HEIGHT "solid" "light blue"))
 
